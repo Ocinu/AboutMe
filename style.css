@@ -1,0 +1,12 @@
+nav {
+    padding: 0 3rem;
+}
+
+input {
+    color: white !important;
+}
+
+
+.container h5:not(:first-child) {
+    margin-top: 5rem;
+}
